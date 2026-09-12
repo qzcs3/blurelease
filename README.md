@@ -12,7 +12,7 @@ APK releases live on the **Releases** page. Every release contains a single inst
 ## Naming
 | Asset | Meaning |
 |---|---|
-| `blurrr_update.apk` | Latest build, automatically picked up by the app |
+| `Blury-vxxx.apk` | Latest build, automatically picked up by the app |
 
 ## Pages
 - **[Releases](../../releases)** — all published builds
